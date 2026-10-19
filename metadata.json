@@ -1,0 +1,6 @@
+{
+  "name": "Focus - Screen-Time Reflection Assistant",
+  "description": "A calm, non-judgmental digital well-being assistant powered by Gemini that turns screen time into personalized reflections and daily mindful challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
